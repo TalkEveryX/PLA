@@ -1,0 +1,5 @@
+/home/harvey/Study/TalkEveryX/PLA/build/CMakeFiles/edit_cache.dir
+/home/harvey/Study/TalkEveryX/PLA/build/CMakeFiles/rebuild_cache.dir
+/home/harvey/Study/TalkEveryX/PLA/build/src/CMakeFiles/edit_cache.dir
+/home/harvey/Study/TalkEveryX/PLA/build/src/CMakeFiles/rebuild_cache.dir
+/home/harvey/Study/TalkEveryX/PLA/build/src/CMakeFiles/pla.dir

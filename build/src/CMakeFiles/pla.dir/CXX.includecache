@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/harvey/Study/TalkEveryX/PLA/src/main.cpp
+pla.h
+/home/harvey/Study/TalkEveryX/PLA/src/pla.h
+
+/home/harvey/Study/TalkEveryX/PLA/src/pla.cpp
+pla.h
+/home/harvey/Study/TalkEveryX/PLA/src/pla.h
+
+/home/harvey/Study/TalkEveryX/PLA/src/pla.h
+iostream
+-
+fstream
+-
+vector
+-
+
